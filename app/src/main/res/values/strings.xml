@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="title">اپ تستی من</string>
+    <string name="add">اضافه کن</string>
+    <string name="reset">صفر کن</string>
+</resources>
